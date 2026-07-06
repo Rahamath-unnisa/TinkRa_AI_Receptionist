@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 TinkRa AI Receptionist
 
 An AI-powered virtual receptionist built with Python.
@@ -28,3 +29,6 @@ An AI-powered virtual receptionist built with Python.
 pip install -r requirements.txt
 python main.py
 ```
+=======
+# TinkRa_AI_Receptionist
+>>>>>>> 2e244315a4638dcd32d884736e4a6f827165df50
